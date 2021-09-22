@@ -1,0 +1,16 @@
+body {
+    background-color: aqua;
+    color: rgb(32, 43, 43);
+    font-style: italic;  
+    font-size: 30px;
+}
+
+h1{
+    color: rgb(23, 321, 0)
+}
+
+
+.Main-Header{
+    font: italic;
+    color: #ff0000;
+}
