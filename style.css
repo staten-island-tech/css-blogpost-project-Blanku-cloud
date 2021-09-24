@@ -5,12 +5,12 @@
     font-size: 700pxs;
 }
 
-#rabbit {
+#rabbit, #Markhor {
     font-family: 'Roboto', sans-serif;
     width: 350px;
     padding: 5px 5px 50px 5px;
     margin: 50px auto;
-    border: 5px black;
+    border: 5px solid green;
     background-color: #CC99CC;
     text-align: center;
 }
@@ -20,3 +20,6 @@ img {
     height: auto;  
 }
 
+ {
+
+}
