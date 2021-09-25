@@ -1,17 +1,13 @@
 
 #main-header {
     font-family: 'Roboto', sans-serif;
-    font-size: 700pxs;
-    margin-top: 30px;
-    margin-bottom: 0px;
-    margin-left: auto;
-    margin-right: auto;
-    width: 25vw;
+    font-size: 50px;
+    text-align: center;
+    width: 40vw;
     border-radius: 20px;
     color: yellow;
     background-color: grey;
-    padding: 5px 8px 5px 25px;
-
+    margin: 20px auto;
 }
 
 #rabbit, #Markhor, #maned {
