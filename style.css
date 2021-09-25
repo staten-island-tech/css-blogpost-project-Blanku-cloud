@@ -1,18 +1,42 @@
 
 #main-header {
     font-family: 'Roboto', sans-serif;
-    text-align: center;
     font-size: 700pxs;
+    margin-top: 30px;
+    margin-bottom: 0px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25vw;
+    border-radius: 20px;
+    color: yellow;
+    background-color: grey;
+    padding: 5px 8px 5px 25px;
+
 }
 
-#rabbit, #Markhor {
+#rabbit, #Markhor, #maned {
     font-family: 'Roboto', sans-serif;
     width: 350px;
-    padding: 5px 5px 50px 5px;
-    margin: 50px auto;
-    border: 5px solid green;
-    background-color: #CC99CC;
+    padding: 7px 3px 5px 7px;
+    margin: 40px auto;
+    border: #AAABBC 5px solid;
     text-align: center;
+    border-radius: 20px;
+}
+
+#rabbit {
+    background-color: #8B8982;
+    color: #373F47;
+}
+
+#Markhor {
+    background-color: #484538;
+    color: #828178;
+}
+
+#maned {
+    background-color: #1D3461;
+    color: #B7CE63;
 }
 
 img {
@@ -20,6 +44,16 @@ img {
     height: auto;  
 }
 
- {
+a {
+    color: black;
+}
+
+body{
+    background-image: url(https://s3-us-west-2.amazonaws.com/uw-s3-cdn/wp-content/uploads/sites/6/2017/11/04133712/waterfall.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 
 }
+
+ 
